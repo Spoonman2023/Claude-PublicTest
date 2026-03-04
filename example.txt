@@ -1,0 +1,2 @@
+# Example File
+This is an example file from kubernetes-goat.
